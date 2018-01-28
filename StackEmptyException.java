@@ -6,7 +6,7 @@ class StackEmptyException extends Exception
 	{
 		msg = "StackEmptyException";
 	}
-
+	
 	public StackEmptyException (String m)
 	{
 		msg = m;

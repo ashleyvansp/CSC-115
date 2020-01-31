@@ -1,5 +1,6 @@
+# Maze Solver
 Purpose:
-Takes a plain-text file of a maze as input and returns the coordinates to solve the maze.
+Takes a plaintext file of a maze as input and returns the coordinates to solve the maze.
 
 To use:
 1. Download all files to a folder on your computer
